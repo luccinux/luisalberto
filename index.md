@@ -23,7 +23,7 @@ Ocasionalmente hago incursiones en el mundo del Hardware, pero sobre todo pruebo
 
 En otra línea profesional, he escrito posts para blogs deportivos. Combinando así dos de mis pasiones, los deportes y la web.
 
-## Aprendiendo
+## Siempre Aprendiendo
 
 Actualmente estoy aprendiendo Wordpress, ya que he sido siempre más de Joomla!. Y explorando el microblogging con Tumblr. Y sobre todo intento convertirme en un verdadero experto en SEO, y en las Herramientas para Webmaster de Google.
 
@@ -33,16 +33,16 @@ Disfruto con el uso de las herramientas en la nube de Google, y cada día las do
 
 Estoy intentando también darle un empujón al inglés y al italiano. Dos idiomas en los que tengo buena base pero en los que aún me cuesta desenvolverme.
 
-## Contacto
+## Contacta conmigo
 
 La forma más efectiva de contactar conmigo es a través de mi cuenta de e-mail:
 - [luisalberto.ce@gmail.com](mailto:luisalbertoce@gmail.com)
 Pero si lo prefieres, también puedes contactarme a través de mi perfil en las siguientes Redes Sociales:
-- [Link]Mi perfil en LinkedIn](http://es.linkedin.com/in/luisalbertocantos)
-- [Link]Mi perfil en Facebook](http://es-es.facebook.com/luisalberto.cantosecheverria)
+- [Mi perfil en LinkedIn](http://es.linkedin.com/in/luisalbertocantos)
+- [Mi perfil en Facebook](http://es-es.facebook.com/luisalberto.cantosecheverria)
 - [Mi cuenta de Google+](https://plus.google.com/+LuisAlbertoCantos)
 
-## Blog
+## Mi Blog
 
 Mi blog es un simple blog de Tumblr vinculado con mi dominio personal. Un formato de diseño sencillo, con un objetivo simple: Experimentar un poco con el microblogging.
 
@@ -52,4 +52,5 @@ Si esperabas un blog con consejos de un profesional de Internet, este no es el c
 
 Visitar el [blog de Luis Alberto Cantos](http://blog.luisalberto.es/)
 
-### Web personal del profesional de Internet: [Luis Alberto Cantos Echeverría](https://plus.google.com/+LuisAlbertoCantos?rel=author) | CC-2017
+### Web personal del profesional de Internet
+[Luis Alberto Cantos Echeverría] (https://plus.google.com/+LuisAlbertoCantos?rel=author) | CC-2017
