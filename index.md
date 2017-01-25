@@ -17,7 +17,7 @@ Diferentes formaciones en SEO, Marketing Online, Community Manager, Joomla! y mu
 
 Disfruto con el uso de las herramientas en la nube de Google, y cada día las dominaré más. Por mi amplia experiencia su fiabilidad está demostrada y son de gran ayuda para la productividad.
 
->Ocasionalmente hago incursiones en el mundo del Hardware, pero sobre todo pruebo todo tipo de Softwares, lo que me ha llevado a una >capacidad muy elevada en el uso de multitud de herramientas.
+>Ocasionalmente hago incursiones en el mundo del Hardware, pero sobre todo pruebo todo tipo de Softwares, lo que me ha llevado a una capacidad muy elevada en el uso de multitud de herramientas.
 
 En otra línea profesional, he escrito posts para blogs deportivos. Combinando así dos de mis pasiones, los deportes y la web.
 
@@ -30,7 +30,7 @@ En otra línea profesional, he escrito posts para blogs deportivos. Combinando a
 - Bootstrap, Twig
 - Zendesk
 
->Estoy intentando también darle un empujón al inglés y al italiano. Dos idiomas en los que tengo buena base pero en los que aún me >cuesta desenvolverme.
+>Estoy intentando también darle un empujón al inglés y al italiano. Dos idiomas en los que tengo buena base pero en los que aún me cuesta desenvolverme.
 
 ## Contacta conmigo
 
@@ -40,20 +40,18 @@ O por Telegram: *luisalbertoce*
 Si no tienes prisa puedes contactarme o seguirme en en las siguientes Redes Sociales:
 
 - [Mi perfil en LinkedIn](http://es.linkedin.com/in/luisalbertocantos)
-
 - [Mi perfil en Facebook](http://es-es.facebook.com/luisalberto.cantosecheverria)
-
 - [Mi cuenta de Google+](https://plus.google.com/+LuisAlbertoCantos)
 
 ## Mi Blog
 
-Mi blog es un simple blog de Tumblr vinculado con mi dominio personal. Un formato de diseño sencillo, con un objetivo simple: Experimentar un poco con el microblogging.
+Es un simple *Tumblr* vinculado con mi dominio personal. Un formato sencillo, con un objetivo simple: Experimentar un poco con el microblogging.
 
-En el hablaré de todo: Política, Sociedad, Deporte, Cultura, mis pensamientos, cualquier cosa sobre la que se me ocurra escribir. Por ello no deberías darle demasiada importancia a lo que leas en él.
+En el hablaré de lo que se me pase por la cabeza: Política, Sociedad, Deporte, Cultura, mis pensamientos, cualquier cosa sobre la que me apetezca escribir. Quizás no deberías darle demasiada importancia a lo que leas en él ;)
 
 Si esperabas un blog con consejos de un profesional de Internet, este no es el caso. No obstante puedes realizarme cualquier tipò de consulta profesional a través de la sección contacto.
 
 Visitar el [blog de Luis Alberto Cantos](http://blog.luisalberto.es/)
 
-### Web personal del profesional de Internet
+#### Web personal del profesional de Internet
 [Luis Alberto Cantos Echeverría](https://plus.google.com/+LuisAlbertoCantos?rel=author) | CC-2017
