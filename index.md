@@ -17,6 +17,7 @@
 footer p { display: none; }
 </style>
 
+<div>
 **Bienvenido al sitio web personal de Luis Alberto Cantos**
 
 Nací en Vitoria (Álava), donde resido, y soy profesional de Internet.
@@ -73,12 +74,10 @@ En el hablaré de lo que se me pase por la cabeza: Política, Sociedad, Deporte,
 Si esperabas un blog con consejos de un profesional de Internet, este no es el caso. No obstante puedes realizarme cualquier tipò de consulta profesional a través de la sección contacto.
 
 Visitar el [blog de Luis Alberto Cantos](http://blog.luisalberto.es/)
-
-<html>
+</div>
 <div id="footer_wrap" class="outer">
 <footer class="inner">
 #### Web personal del profesional de Internet
 [Luis Alberto Cantos Echeverría](https://plus.google.com/+LuisAlbertoCantos?rel=author) | CC-2017
 </footer>
 </div>
-</html>
