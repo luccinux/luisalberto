@@ -74,5 +74,7 @@ Si esperabas un blog con consejos de un profesional de Internet, este no es el c
 
 Visitar el [blog de Luis Alberto Cantos](http://blog.luisalberto.es/)
 
+<footer class="inner">
 #### Web personal del profesional de Internet
 [Luis Alberto Cantos Echeverría](https://plus.google.com/+LuisAlbertoCantos?rel=author) | CC-2017
+</footer>
