@@ -14,7 +14,7 @@
 
 <style type="text/css">
 #forkme_banner { display: none; }
-p.copyright { display: none; }
+footer.p { display: none; }
 </style>
 
 **Bienvenido al sitio web personal de Luis Alberto Cantos**
