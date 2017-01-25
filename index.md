@@ -42,9 +42,9 @@ En otra línea profesional, he escrito posts para blogs deportivos. Combinando a
 - Gestiones comerciales con plataformas de venta colectiva, como Groupon, Colectivia, Ofertix, Offerum y muchas más.
 - Local business, Search console
 - MaríaDB
-- Docker
 - Bootstrap, Twig
 - Zendesk
+- CloudHosting, balanceador de carga, Docker
 
 >Estoy intentando también darle un empujón al inglés y al italiano. Dos idiomas en los que tengo buena base pero en los que aún me cuesta desenvolverme.
 
