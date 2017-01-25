@@ -36,7 +36,8 @@ En otra línea profesional, he escrito posts para blogs deportivos. Combinando a
 
 La forma más efectiva de contactar conmigo es a través de mi cuenta de e-mail:
 - [luisalberto.ce@gmail.com](mailto:luisalbertoce@gmail.com)
-O por Telegram: *luisalbertoce*
+O por Telegram:
+- *luisalbertoce*
 Si no tienes prisa puedes contactarme o seguirme en en las siguientes Redes Sociales:
 
 - [Mi perfil en LinkedIn](http://es.linkedin.com/in/luisalbertocantos)
