@@ -61,7 +61,7 @@ La forma más efectiva de contactar conmigo es por e-mail o Telegram:
 Si no tienes prisa puedes contactarme o seguirme en en las siguientes Redes Sociales:
 
 - [Mi perfil en LinkedIn](http://es.linkedin.com/in/luisalbertocantos)
-- [Mi perfil en Facebook](http://es-es.facebook.com/luisalberto.cantosecheverria)
+- [Mi perfil en Facebook](http://es-es.facebook.com/luisalberto.cantosec)
 - [Mi cuenta de Google+](https://plus.google.com/+LuisAlbertoCantos)
 
 ### Mi Blog
