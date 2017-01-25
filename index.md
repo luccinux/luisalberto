@@ -1,4 +1,3 @@
-<html itemscope itemtype="http://schema.org/Person">
 <!-- Metas del plugin para compartir de Facebook -->
 <meta property="og:title" content="Luis Alberto Cantos | Sitio web personal" />
 <meta property="og:type" content="website" />
@@ -73,4 +72,3 @@ Visitar el [blog de Luis Alberto Cantos](http://blog.luisalberto.es/)
 
 #### Web personal del profesional de Internet
 [Luis Alberto Cantos Echeverría](https://plus.google.com/+LuisAlbertoCantos?rel=author) | CC-2017
-</html>
