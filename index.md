@@ -1,3 +1,9 @@
+---
+layout: default
+title: luisalberto.es | Sitio personal de Luis Alberto Cantos
+description: Luis Alberto Cantos. Gestor de Proyectos Web experto en SEO y Google.
+---
+
 **Bienvenido al sitio web personal de Luis Alberto Cantos**
 
 Nací en Vitoria (Álava), donde resido, y soy profesional de Internet.
