@@ -7,7 +7,7 @@
 
 <meta itemprop="name" content="Luis Alberto Cantos | Sitio web personal">
 <meta itemprop="description" content="Sitio web personal del profesional de Internet Luis Alberto Cantos.">
-<meta itemprop="image" content="http://luisalberto.es/luisalberto.jpg">
+<meta itemprop="image" content="http://luisalberto.es/luisalbertocantos.jpg">
 
 <style type="text/css">
 #forkme_banner { display: none; }
