@@ -1,23 +1,19 @@
-<!-- Metas del plugin para compartir de Facebook -->
 <meta property="og:title" content="Luis Alberto Cantos | Sitio web personal" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://luisalberto.es" />
-<meta property="og:image" content="http://luisalberto.es/images/web_snapshot.jpg" />
-<meta property="og:site_name" content="LuisAlberto.es" />
+<meta property="og:site_name" content="luisAlberto.es" />
 <meta property="fb:admins" content="100001449112753" />
 <meta property="og:description" content="Sitio web personal del profesional de Internet Luis Alberto Cantos." />
 
-<!-- Etiquetas de boton +1 de Google Plus -->
-<meta itemprop="name" content="Luis Alberto Cantos - Sitio web personal">
+<meta itemprop="name" content="Luis Alberto Cantos | Sitio web personal">
 <meta itemprop="description" content="Sitio web personal del profesional de Internet Luis Alberto Cantos.">
-<meta itemprop="image" content="http://www.luisalberto.es/images/luisalberto-es-snapshot.jpg">
+<meta itemprop="image" content="http://luisalberto.es/luisalberto.jpg">
 
 <style type="text/css">
 #forkme_banner { display: none; }
 footer p { display: none; }
 </style>
 
-<div>
 **Bienvenido al sitio web personal de Luis Alberto Cantos**
 
 Nací en Vitoria (Álava), donde resido, y soy profesional de Internet.
@@ -74,10 +70,6 @@ En el hablaré de lo que se me pase por la cabeza: Política, Sociedad, Deporte,
 Si esperabas un blog con consejos de un profesional de Internet, este no es el caso. No obstante puedes realizarme cualquier tipò de consulta profesional a través de la sección contacto.
 
 Visitar el [blog de Luis Alberto Cantos](http://blog.luisalberto.es/)
-</div>
-<div id="footer_wrap" class="outer">
-<footer class="inner">
+
 #### Web personal del profesional de Internet
 [Luis Alberto Cantos Echeverría](https://plus.google.com/+LuisAlbertoCantos?rel=author) | CC-2017
-</footer>
-</div>
