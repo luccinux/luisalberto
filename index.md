@@ -15,6 +15,10 @@ Durante una breve etapa, realicé trabajos de diseño gráfico e imagen corporat
 Poco despúes comencé a relacionarme con el desarrollo de sitios web, aprendiendo HTML y CSS, propiciando mi incorporación al sector profesional de Internet.
 Diferentes formaciones en SEO, Marketing Online, Community Manager, Joomla! y muchos otros cursos y conferencias, junto con la práctica profesional han ido completando mi perfil, que se ha revelado muy polivalente.
 
+Disfruto con el uso de las herramientas en la nube de Google, y cada día las dominaré más. Por mi amplia experiencia su fiabilidad está demostrada y son de gran ayuda para la productividad.
+
+>Ocasionalmente hago incursiones en el mundo del Hardware, pero sobre todo pruebo todo tipo de Softwares, lo que me ha llevado a una >capacidad muy elevada en el uso de multitud de herramientas.
+
 En otra línea profesional, he escrito posts para blogs deportivos. Combinando así dos de mis pasiones, los deportes y la web.
 
 ## Siempre Aprendiendo
@@ -26,11 +30,7 @@ En otra línea profesional, he escrito posts para blogs deportivos. Combinando a
 - Bootstrap, Twig
 - Zendesk
 
-### Ocasionalmente hago incursiones en el mundo del Hardware, pero sobre todo pruebo todo tipo de Softwares, lo que me ha llevado a una capacidad muy elevada en el uso de multitud de herramientas.
-
-Disfruto con el uso de las herramientas en la nube de Google, y cada día las dominaré más. Por mi amplia experiencia su fiabilidad está demostrada y son de gran ayuda para la productividad.
-
-### Estoy intentando también darle un empujón al inglés y al italiano. Dos idiomas en los que tengo buena base pero en los que aún me cuesta desenvolverme.
+>Estoy intentando también darle un empujón al inglés y al italiano. Dos idiomas en los que tengo buena base pero en los que aún me >cuesta desenvolverme.
 
 ## Contacta conmigo
 
@@ -38,8 +38,11 @@ La forma más efectiva de contactar conmigo es a través de mi cuenta de e-mail:
 - [luisalberto.ce@gmail.com](mailto:luisalbertoce@gmail.com)
 O por Telegram: *luisalbertoce*
 Si no tienes prisa puedes contactarme o seguirme en en las siguientes Redes Sociales:
+
 - [Mi perfil en LinkedIn](http://es.linkedin.com/in/luisalbertocantos)
+
 - [Mi perfil en Facebook](http://es-es.facebook.com/luisalberto.cantosecheverria)
+
 - [Mi cuenta de Google+](https://plus.google.com/+LuisAlbertoCantos)
 
 ## Mi Blog
