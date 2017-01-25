@@ -12,6 +12,12 @@
 <meta itemprop="description" content="Sitio web personal del profesional de Internet Luis Alberto Cantos.">
 <meta itemprop="image" content="http://www.luisalberto.es/images/luisalberto-es-snapshot.jpg">
 
+<style type="text/css">
+a { border-bottom: 1px solid #DFDFDF; color: #900; font-weight: bold; text-decoration: none; }
+a:hover { color: #CC0033; border-color: #CC0033;}
+a:active { position: relative; top: 1px; }
+#forkme_banner { display: none; }
+</style>
 
 **Bienvenido al sitio web personal de Luis Alberto Cantos**
 
