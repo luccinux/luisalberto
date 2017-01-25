@@ -14,6 +14,7 @@
 #header_wrap .inner { max-width: 70%; }
 #main_content { max-width: 70%; }
 footer p { display: none; }
+p { font-size: 1em; }
 </style>
 
 **Bienvenido al sitio web personal de Luis Alberto Cantos**
