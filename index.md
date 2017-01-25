@@ -11,7 +11,7 @@
 
 <style type="text/css">
 #forkme_banner { display: none; }
-#main_content { max-widht: 85%; }
+#main_content { max-width: 80%; }
 footer p { display: none; }
 </style>
 
