@@ -1,4 +1,4 @@
-# Bienvenido al sitio web personal de Luis Alberto Cantos
+**Bienvenido al sitio web personal de Luis Alberto Cantos**
 
 Nací en Vitoria (Álava), donde resido, y soy profesional de Internet.
 
@@ -6,7 +6,7 @@ He alternado estudios de informática, diseño y web, hasta posicionarme finalme
 
 Actualmente realizo funciones muy diversas, como: Gestión de Proyectos web, SEO, Blogging, Comercio electrónico, o E-mail marketing, entre otras.
 
-## Experiencias continuas
+### Experiencias continuas
 
 En mi primera experiencia laboral fui un muy joven camarero que llegó a gerente de un bar. En aquellos 5 años de experiencia empresarial adquirí valores de responsabilidad en el trabajo que me guian desde entonces.
 
@@ -21,7 +21,7 @@ Disfruto con el uso de las herramientas en la nube de Google, y cada día las do
 
 En otra línea profesional, he escrito posts para blogs deportivos. Combinando así dos de mis pasiones, los deportes y la web.
 
-## Siempre Aprendiendo
+### Siempre Aprendiendo
 
 - Gestiones comerciales con plataformas de venta colectiva, como Groupon, Colectivia, Ofertix, Offerum y muchas más.
 - Local business, Search console
@@ -32,7 +32,7 @@ En otra línea profesional, he escrito posts para blogs deportivos. Combinando a
 
 >Estoy intentando también darle un empujón al inglés y al italiano. Dos idiomas en los que tengo buena base pero en los que aún me cuesta desenvolverme.
 
-## Contacta conmigo
+### Contacta conmigo
 
 La forma más efectiva de contactar conmigo es por e-mail o Telegram:
 
@@ -45,7 +45,7 @@ Si no tienes prisa puedes contactarme o seguirme en en las siguientes Redes Soci
 - [Mi perfil en Facebook](http://es-es.facebook.com/luisalberto.cantosecheverria)
 - [Mi cuenta de Google+](https://plus.google.com/+LuisAlbertoCantos)
 
-## Mi Blog
+### Mi Blog
 
 Es un simple *Tumblr* vinculado con mi dominio personal. Un formato sencillo, con un objetivo simple: Experimentar un poco con el microblogging.
 
