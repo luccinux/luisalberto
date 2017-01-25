@@ -1,8 +1,3 @@
----
-title: This is my title
-layout: post
----
-
 # Bienvenido al sitio web personal de Luis Alberto Cantos
 
 Nací en Vitoria (Álava), donde resido, y soy profesional de Internet.
