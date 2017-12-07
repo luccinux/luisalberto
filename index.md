@@ -4,6 +4,7 @@
 <meta property="og:site_name" content="luisAlberto.es" />
 <meta property="fb:admins" content="100001449112753" />
 <meta property="og:description" content="Sitio web personal del profesional de Internet Luis Alberto Cantos." />
+<meta name="p:domain_verify" content="9d4c3307b9794fe7b171d43a4b961c40"/>
 
 <meta itemprop="name" content="Luis Alberto Cantos | Sitio web personal">
 <meta itemprop="description" content="Sitio web personal del profesional de Internet Luis Alberto Cantos.">
