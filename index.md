@@ -1,7 +1,3 @@
-<head>
-<meta name="google-site-verification" content="FPSRZkTTRFA5hwvXnlp2YfNiuyZxe9fLwcX9y7YRp7U" />
-</head>
-
 <meta property="og:title" content="Luis Alberto Cantos | Sitio web personal" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://luisalberto.es" />
