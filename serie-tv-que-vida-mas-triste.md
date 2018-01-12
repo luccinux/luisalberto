@@ -1,3 +1,5 @@
+<style type="text/css"> #forkme_banner { display: none; } #header_wrap .inner { max-width: 70%; } #main_content { max-width: 70%; } footer p { display: none; } p { font-size: 14px.; } </style>
+
 Qué vida más triste fue una serie de humor online española creada por Natxo del Agua y Rubén Ontiveros y guionizada y dirigida por el mismo Rubén Ontiveros.
 El Blog "Qué vida más triste" alcanzó a principios de 2008 más de 2 millones de visitas a su página web; además cuenta con numerosas colaboraciones en su página, como la de Alejandro Tejería.
 En octubre de 2008 se trasladó el formato a una serie de televisión, que emitía La Sexta.
